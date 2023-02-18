@@ -9,7 +9,7 @@ Esse é um projeto para criar uma réplica do famoso jogo flappy bird, 100% em P
 Confome desenvolvemos o projeto, atualizar quais tecnologias estamos utilizando
 
 * [Python](https://python.org): Linguagem de programação de sintaxe simples
-* [Pygame]: Framework Python usado para a criação de jogos
+* [Pygame](https://www.pygame.org/docs/): Framework Python usado para a criação de jogos
 
 
 ## Requisitos
